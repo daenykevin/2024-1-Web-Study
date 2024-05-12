@@ -27,4 +27,5 @@ b. React는 현재 웹 프론트엔드 개발의 주류를 차지하고 있음
 - head와 body로 홈페이지를 분류하는 것, link로 index와 css를 연동하는 법, html과 css의 문법에 대해 알 수 있었다.
 - css의 다양한 요소들을 살펴보고, 그 사이의 차이점에 대해서 알 수 있었다.(text-align 과 align-items의 차이점을 몰라, align-item을 사용하고 가운데 정렬이 되지 않아 당황스러웠는데, 자료를 참고해 text-align으로 수정하여 문제점을 해결함)
 - html에서 class를 지정하고, css에서 class를 바탕으로 폰트, 색상, 크기등을 수정하는 법을 배웠다.
+- gitHub에 이미지를 올리고 이를 마크다운 문법으로 불러오는 방법을 알게 되었다. 
 ![과제 인증](https://github.com/daenykevin/2024-1-Web-Study/blob/main/Week1%20assignment.png)

@@ -1,4 +1,6 @@
 #### HTML 메소드 예시들
+- [GET]
+- [POST]
 
 
 #### HTTP/1.1,HTTP/2,HTTP/3 사이의 차이

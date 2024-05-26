@@ -1,6 +1,6 @@
 #### HTML 메소드 예시들
-- [GET]
-- [POST]
+- [GET](https://github.com/daenykevin/2024-1-Web-Study/blob/main/Week3/GET.png)
+- [POST](https://github.com/daenykevin/2024-1-Web-Study/blob/main/Week3/POST.png)
 
 
 #### HTTP/1.1,HTTP/2,HTTP/3 사이의 차이
